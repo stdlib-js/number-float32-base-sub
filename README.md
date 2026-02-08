@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import subf from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float32-base-sub@deno/mod.js';
+import subf from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float32-base-sub@v0.1.1-deno/mod.js';
 ```
 
 #### subf( x, y )
@@ -98,7 +98,7 @@ v = subf( NaN, NaN );
 
 ```javascript
 import rand from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@deno/mod.js';
-import subf from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float32-base-sub@deno/mod.js';
+import subf from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float32-base-sub@v0.1.1-deno/mod.js';
 
 var x;
 var y;
